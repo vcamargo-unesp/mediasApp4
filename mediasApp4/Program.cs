@@ -23,7 +23,7 @@ while (nome != "0")
         }
         else
         {
-            Console.WriteLine("Nota inválida!")
+            Console.WriteLine("Nota inválida!");
             j--;
         }
 
